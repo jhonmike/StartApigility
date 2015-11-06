@@ -1,5 +1,5 @@
 {
-    "name": "zfcampus/zf-apigility-skeleton",
+    "name": "undefined/api-apigility",
     "description": "Skeleton Application for Apigility",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -9,12 +9,10 @@
         "framework",
         "zf2"
     ],
-    "homepage": "http://apigility.org/",
+    "homepage": "http://undefinedsource.github.io/",
     "support": {
-        "email": "apigility-users@zend.com",
-        "irc": "irc://irc.freenode.net/apigility",
-        "source": "https://github.com/zfcampus/zf-apigility-skeleton",
-        "issues": "https://github.com/zfcampus/zf-apigility-skeleton/issues"
+        "source": "https://github.com/undefinedsource/api-apigility",
+        "issues": "https://github.com/undefinedsource/api-apigility/issues"
     },
     "config": {
         "process-timeout": 5000
