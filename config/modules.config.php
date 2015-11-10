@@ -21,8 +21,8 @@ return array(
     'ZF\\Rest',
     'ZF\\Rpc',
     'ZF\\Versioning',
-    // 'ZF\\Apigility\\Doctrine\\Server',
-    // 'Phpro\\DoctrineHydrationModule',
+    'Phpro\\DoctrineHydrationModule',
+    'ZF\\Apigility\\Doctrine\\Server',
     'ApiBase',
     'ApiAuth',
 );
