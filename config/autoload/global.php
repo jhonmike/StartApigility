@@ -21,7 +21,6 @@ return array(
             'map' => array(
                 'ApiAuth\\V1' => 'adapterauth',
                 'Topografia\\V1' => 'adapterauth',
-                'Event\\V1' => 'adapterauth',
             ),
         ),
     ),
